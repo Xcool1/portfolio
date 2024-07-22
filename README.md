@@ -1,3 +1,6 @@
+# Portfolio
+
+
 ## About
 I am a computer Science and Economics student with an entrepreneurial mindset and passion for data science, software engineering, and user experience. This website is to showcase some of the projects I have worked on in more detail.
 

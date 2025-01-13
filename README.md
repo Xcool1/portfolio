@@ -13,7 +13,7 @@ I am a computer Science and Economics BSLAS graduate from University of Illinois
 
 [Research Document](assets/JNetworks.pdf)
 
-Worked with the MUSE research group at UIUC to examine how or if social demographics and existing social inequalities manifest within professional networks such as X (formerly known as Twitter). Performed extensive data collection in aggregate, analysis, and modeling to establish how journalist/information clusters form on the basis of organization, gender, location, and other key demographics. Please refer to the research document above to observe the clusters generated and learn more about the context of the project.
+Performed research through the URAP Program at UIUC to examine how or if social demographics and existing social inequalities manifest within professional networks such as X (formerly known as Twitter). This research project involved extensive data collection in aggregate, analysis, and modeling to establish how journalist/information clusters form on the basis of organization, gender, location, and other key demographics. Please refer to the research document above to observe the clusters generated and learn more about the context/findings of the project.
 
 **AI Itinerary Planner Website**
 

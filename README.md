@@ -6,7 +6,7 @@ I am a computer Science and Economics BSLAS graduate from University of Illinois
 
 ## Resume
 
-[You can view my resume here](assets/SrijanS_Resume.pdf)
+[You can view my resume here](assets/SrijanS Resume.pdf)
 
 ## Projects
 **Network Analysis of Journalist ”bubbles” on Social Media**
@@ -17,7 +17,7 @@ Performed research through the URAP Program at UIUC to examine how or if social 
 
 **AI Itinerary Planner Website**
 
-[Project Link](https://github.com/CS222-UIUC/course-project-chatbot)
+[Project Link](https://github.com/Xcool1/course-project-chatbot)
 
 Collaborated with a team to create a website which integrates the OpenAI API to assist in planning trips to a given location and forming an itinerary. Users can create a profile which is saved and interact with the AI in a chat, as well as see previously stored itineraries generated.
 

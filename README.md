@@ -6,7 +6,7 @@ I am a computer Science and Economics BSLAS graduate from University of Illinois
 
 ## Resume
 
-[You can view my resume here](assets/Srijan_Resume.pdf)
+[You can view my resume here](assets/SrijanS_Resume.pdf)
 
 ## Projects
 **Network Analysis of Journalist ”bubbles” on Social Media**

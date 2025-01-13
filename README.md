@@ -2,7 +2,7 @@
 
 
 ## About
-I am a computer Science and Economics student with an entrepreneurial mindset and passion for data science, software engineering, and user experience. This website is to showcase some of the projects I have worked on in more detail.
+I am a computer Science and Economics BSLAS graduate from University of Illinois at Urbana-Champaign with an entrepreneurial mindset and passion for data science, software engineering, and user experience. This website is to showcase some of the projects I have worked on in more detail.
 
 ## Resume
 

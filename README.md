@@ -26,3 +26,9 @@ Collaborated with a team to create a website which integrates the OpenAI API to 
 [Project Link](https://github.com/cs411-alawini/sp24-cs411-team111-team111)
 
 Worked with two teammates on an apartment search application aimed at assisting tenants in finding suitable rental properties in Chicago based on price and crime rates in the area. Utilized Google Cloud Platform and SQL to store detailed databases on apartment demographics and crime data, as well as providing a front end where users can input their ideal budget range for an apartment in Chicago and find neighborhoods that most closely match that range. Further filtering can be done based on what demographics the user cares about such as gender, crime percentage, crime type, etc. 
+
+## Games
+
+**Robot-10**
+[Game Download Zip](https://drive.google.com/file/d/1y676QASYWiRfmIk8NiJltgRQHHggPFCt/view?usp=sharing)
+Robot-10 is an Unreal Engine 5 game created in collaboration with Nicholas Phillips that takes inspiration from Nintendo's Pikmin series. The game is single-player and involves the main character taking control of 10 robots to fight his way out of an old factory. The game features diverse biomes and puzzles for the player to figure out, as well as some combat with enemies coming in the player's way to prevent them from escaping the factory. I was primarily responsible for creating player/camera movement, combat, and command of NPCs (i.e. the robots) under the player's control, with character assets and levels spearheaded by Nicholas. 

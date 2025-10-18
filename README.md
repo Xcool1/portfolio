@@ -9,6 +9,14 @@ I am a Computer Science and Economics BSLAS graduate from the University of Illi
 [You can view my resume here](assets/SrijanS Resume.pdf)
 
 ## Projects
+
+**Face Filters from 3D Face Detection Software**
+[Project Link](https://github.com/Xcool1/facetracking)
+
+Worked with 2 team members to develop an Android-based application that tracks 3D models onto a person's face using facial key points. Inspired by the popular face filters found in apps like Instagram and Zoom, we aimed to create a robust system capable of accurately mapping objects like glasses or masks to a face, even as the user moves or changes their distance from the camera.
+
+We utilized Google's ML Kit for face detection to extract 468 facial key points and focused on five stable features (forehead, nose, and chin) to calculate the transformation matrix for 3D tracking. Through careful selection of points and innovative solutions to challenges like head rotations and face deformations, our system consistently tracked the 3D models in real-time. The project included integrating 3D rendering using the Android canvas API and building various models in Blender to place on the face.
+
 **Network Analysis of Journalist ”bubbles” on Social Media**
 
 [Research Document](assets/JNetworks.pdf)

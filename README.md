@@ -6,7 +6,7 @@ I am a Computer Science and Economics BSLAS graduate from the University of Illi
 
 ## Resume
 
-[You can view my resume here](assets/SrijanS Resume.pdf)
+[You can view my resume here](assets/Srijan S. Resume.pdf)
 
 ## Projects
 

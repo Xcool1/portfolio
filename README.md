@@ -2,7 +2,7 @@
 
 
 ## About
-I am a computer Science and Economics BSLAS graduate from University of Illinois at Urbana-Champaign with an entrepreneurial mindset and passion for data science, software engineering, and user experience. This website is to showcase some of the projects I have worked on in more detail.
+I am a Computer Science and Economics BSLAS graduate from the University of Illinois at Urbana-Champaign, and I'm currently pursuing a Master’s in Security Informatics at Johns Hopkins University. With an entrepreneurial mindset, I am passionate about the fields of cybersecurity, data science, and user experience. This website showcases some of the projects I've worked on across my years of education, with links for further viewing.
 
 ## Resume
 
